@@ -1,8 +1,7 @@
-### Hi there 👋
-[![MasterHead] (20220629_105645)]
+[![MasterHead] (https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif)]
 <h1 align="center">Hi 👋, I'm VijaymathiK</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-r7tLDfGRXFPQNfn40VXCo5n50_F1kixScw&usqp=CAU">
+<img align="right" alt="coding" width="400" src="https://c.tenor.com/LSDeBe2JAfoAAAAS/cat-coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaymathik&label=Profile%20views&color=0e75b6&style=flat" alt="vijaymathik" /> </p>
 
